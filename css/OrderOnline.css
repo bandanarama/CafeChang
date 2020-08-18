@@ -1,0 +1,19 @@
+.sc-add-to-cart {
+    background-color: #000080;
+}
+
+.dialogMsgClass .ui-dialog-titlebar {
+    background: #5cb85c;
+}
+
+.card-header {
+    background: #d9d9d9;
+}
+
+.ui-accordion-header-active {
+    background: #d9d9d9;
+}
+
+#accordion .ui-accordion-content {
+    max-height: 400px;
+}
